@@ -1,4 +1,4 @@
-# AsyncLoading
+# AsyncLoading异步加载css,js,html,json等文件
 var al = new AsyncLoading({
 			basePath:'', 
 			isAutoMount:false
